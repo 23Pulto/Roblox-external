@@ -1,4 +1,13 @@
 # Disclaimer & Terms of Use
+# Important Notice
+
+By downloading or using this software, you acknowledge that you do so entirely at your own risk.
+
+The developer is not responsible for any account actions, restrictions, suspensions, bans, data loss, or other consequences that may result from the use of this software.
+
+You are solely responsible for how you choose to use this application.
+
+If you are not comfortable accepting these risks, do not download, install, or use this software.
 
 ## Educational Purposes Only
 
@@ -52,8 +61,6 @@ The developer is not responsible for:
 * Account warnings
 * Account suspensions
 * Account restrictions
-* Account terminations
-* Data loss
 * Any other penalties imposed by third parties
 
 ## Limitation of Liability
