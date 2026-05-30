@@ -3,7 +3,7 @@
 
 By downloading or using this software, you acknowledge that you do so entirely at your own risk.
 
-The developer is not responsible for any account actions, restrictions, suspensions, bans, data loss, or other consequences that may result from the use of this software.
+The developer is not responsible for any account actions, restrictions, suspensions, bans or other consequences that may result from the use of this software.
 
 You are solely responsible for how you choose to use this application.
 
